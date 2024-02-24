@@ -1,0 +1,23 @@
+/* 
+Color Scheme
+ Text, borders 4281A4
+ background FFE5BF
+ 
+*/
+
+
+body {
+	color:black;
+	background-color:#FFE5BF
+}
+
+img {
+	color:#4281A4
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
